@@ -1,10 +1,10 @@
 ## LearnEd (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
-![](pcView.png)
+![](pics.png)
 
 Try this out::  
-https://roshan9419.github.io/LearnEd_E-learning_Website/
+https://github.com/VIKASRAPARTHI/Infinity_Scholars-E-learning-revolution
 
 Our Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
